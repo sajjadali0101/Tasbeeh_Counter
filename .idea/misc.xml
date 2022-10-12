@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable/back_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable/back_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable/counter_shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_digital_tasbeeh.xml" value="0.144" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_favourite_dikhar.xml" value="0.16" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_mainfine.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_select_dhikar.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/activity_splash_screen.xml" value="0.136" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/dialog.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/favourite_dikar.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/header_layout.xml" value="0.12" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/history.xml" value="0.4" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/layout/product_list.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/menu-xxxhdpi/navigation_drawer.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/menu/home_page_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Tasbeeh/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/drawable/border_green.xml" value="0.2703125" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/drawable/button_shape.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/drawable/counter_shape.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/drawable/edittext_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_digital_tasbeeh.xml" value="0.2" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_favourite_dikhar.xml" value="0.13125" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_history.xml" value="0.264" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_mainfine.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_select_dhikar.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/ask_for_save.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/clear_tasbeeh.xml" value="0.264" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/delete_tasbeeh.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/dialog.xml" value="0.13125" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/favourite_dikar.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/header_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/history.xml" value="0.25" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/reset.xml" value="0.264" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/save_to_tasbeeh.xml" value="0.18010752688172044" />
+        <entry key="..\:/Users/PC/Documents/Android studio/Android Documents/Xyron Technologies/Tasbeeh/Tasbeeh/app/src/main/res/layout/theme.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
