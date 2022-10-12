@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_value">16dp</dimen>
+
+    <dimen name="color_hieght">16dp</dimen>
+
+    <dimen name="color_width">16dp</dimen>
+
+    <dimen name="color_padding">16dp</dimen>
+
+    <dimen name="color_pad">16dp</dimen>
+
+
+</resources>

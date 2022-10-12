@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    >
+
+
+    <ImageView
+        android:id="@+id/image_save"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/save_image" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@id/image_save"
+        android:text="Save"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_save"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:text="ENTER TASBEEH /DHIKR NAME"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/text"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="center"
+        android:hint="Name"
+        android:textColor="@color/black"
+        android:textColorHint="#D8D8D8"
+        android:textSize="20dp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/tex2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_name"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:text="ENTER TOTAL COUNTS"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+
+        />
+
+    <EditText
+
+        android:id="@+id/edit_name2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/tex2"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="center"
+        android:hint="666"
+        android:textColor="@color/black"
+        android:textColorHint="#D8D8D8"
+        android:textSize="20dp"
+
+        />
+
+
+    <Button
+        android:id="@+id/Save_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_name2"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button_shape"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:text="SAVE DHIKAR" />
+
+</RelativeLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border_green"
+    >
+
+
+    <ImageView
+        android:id="@+id/image_save"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/mood" />
+
+    <TextView
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@id/image_save"
+        android:text="Delete!"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_save"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:text="Do you want to delete your tasbeeh?"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+
+        />
+
+
+<!--    <Button-->
+<!--        android:id="@+id/No"-->
+
+<!--        android:layout_width="70dp"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:layout_below="@id/text"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:layout_marginLeft="10dp"-->
+<!--        android:layout_marginTop="50dp"-->
+
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:layout_toRightOf="@+id/save"-->
+<!--        android:background="@drawable/button_shape"-->
+<!--        android:paddingLeft="10dp"-->
+<!--        android:paddingRight="10dp"-->
+<!--        android:text="No" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/Yes"-->
+
+<!--        android:layout_width="70dp"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:layout_below="@id/text"-->
+<!--        android:layout_marginLeft="40dp"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:layout_marginRight="10dp"-->
+<!--        android:layout_toRightOf="@+id/No"-->
+<!--        android:background="@drawable/button_shape"-->
+<!--        android:paddingLeft="10dp"-->
+<!--        android:paddingRight="10dp"-->
+<!--        android:text="Yes" />-->
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+
+        >
+
+        <Button
+            android:id="@+id/No"
+
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+
+            android:background="@drawable/button_shape"
+
+            android:text="No" />
+
+        <Button
+            android:id="@+id/Yes"
+
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+
+            android:layout_toRightOf="@+id/No"
+            android:background="@drawable/button_shape"
+
+            android:text="Yes" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
